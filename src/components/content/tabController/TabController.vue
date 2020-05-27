@@ -44,8 +44,6 @@ export default {
   font-size: 15px;
   height: 40px;
   line-height: 40px;
-  position: sticky;
-  top: 44px;
   background-color: white;
 }
 
